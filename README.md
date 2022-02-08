@@ -31,5 +31,5 @@ Conversiones entre sistemas numericos:
 
 y hasta la implementacion de un minujuego que consiste en adivinar un numero aleatorio generado por la computadora
 
-Objetivos -> implementar conocimientos de los diferentes operadores matematicos en C++, asi como tambien familiarizarme con el uso de funciones, librerias, bucles y demas pilares basicos de la programación.
+El objetivo del programa es el de implementar conocimientos de los diferentes operadores matematicos en C++, asi como tambien familiarizarme con el uso de funciones, librerias, bucles y demas pilares basicos de la programación.
 
